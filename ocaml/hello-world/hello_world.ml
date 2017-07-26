@@ -1,1 +1,3 @@
-let hello = "Change me"
+let hello = "Hello, World!";;
+
+Printf.printf hello;;
